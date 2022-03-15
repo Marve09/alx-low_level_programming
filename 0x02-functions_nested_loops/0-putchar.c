@@ -7,7 +7,7 @@
 */
 void print_putchar(void);
 
-int main(0)
+int main(void)
 {
 	print_putchar();
 	return (0);
