@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include"main.h"
 /**
  *  main - check the code.
  *  Description:  a function that checks for uppercase character
