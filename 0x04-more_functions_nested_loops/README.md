@@ -1,1 +1,1 @@
-My 0x04 More functions, nested loops
+ more C functions and nested loops
