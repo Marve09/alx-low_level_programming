@@ -1,19 +1,50 @@
-Bit Manipulation
-Each file in this repository holds code that illustrates an essential concept of programming, specific to the C programming language: how to manipulate bits via switiching them on and off, getting them, and printing to/from binary
+# 0x14. C - Bit manipulation
 
-Description of what each file shows:
-main_test_files ----- folder holds test files that showcase examples of how to use functions
-holberton.h ---------- holds files' function prototypes
-Files that start with:
-a function that converts a binary number to an unsigned int
-a function that prints the binary of a number without using / or %
-a function that returns the value of a bit at a given index
-a function that sets the value of a bit to 1 at a given index
-a function that sets the value of a bit to 0 at a given index
-a function that returns the number of bits you would need to flip to get from one number to another
-a function that checks for big endian and little endian
-Environment
-Language: C
-OS: Ubuntu 14.04 LTS
-Compiler: gcc 4.8.4
-Style guidelines: Betty style
+## Resources:books:
+Read or watch:
+* [Google](https://intranet.hbtn.io/rltoken/3N9o0-Gy3fxQoXJy6TUUHw)
+* [Youtube](https://intranet.hbtn.io/rltoken/7jk6HSHSs-DdXMEPKW1MoQ)
+
+---
+## Learning Objectives:bulb:
+What you should learn from this project:
+
+* Look for the right source of information without too much help
+* How to manipulate bits and use bitwise operators
+
+---
+
+### [0. 0](./0-binary_to_uint.c)
+* Write a function that converts a binary number to an unsigned int.
+
+
+### [1. 1](./1-print_binary.c)
+* Write a function that prints the binary representation of a number.
+
+
+### [2. 10](./2-get_bit.c)
+* Write a function that returns the value of a bit at a given index.
+
+
+### [3. 11](./3-set_bit.c)
+* Write a function that sets the value of a bit to 1 at a given index.
+
+
+### [4. 100](./4-clear_bit.c)
+* Write a function that sets the value of a bit to 0 at a given index.
+
+
+### [5. 101](./5-flip_bits.c)
+* Write a function that returns the number of bits you would need to flip to get from one number to another.
+
+
+### [6. Endianness](./100-get_endianness.c)
+* Write a function that checks the endianness.
+
+
+### [7. Crackme3](./101-password)
+* Find the password for this program.
+
+
+---
+
