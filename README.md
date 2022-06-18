@@ -1,1 +1,2 @@
-# INTRODUCTION TO C DEBUGGING
+# alx-low_level_programming
+# Introduction to C Debugging
